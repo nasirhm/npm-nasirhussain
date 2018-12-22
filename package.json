@@ -1,0 +1,30 @@
+{
+  "name": "nasirhussain",
+  "version": "1.1.0",
+  "description": "Nasir Hussain Business Card created using colorette, chalk and Boxen. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nasirhussain": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasirhm/npm-nasirhussain.git"
+  },
+  "keywords": [
+    "nasirhussain"
+  ],
+  "author": "Nasir Hussain <nasirhussainm14@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nasirhm/npm-nasirhussain/issues"
+  },
+  "homepage": "https://github.com/nasirhm/npm-nasirhussain#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1",
+    "colorette": "^1.0.7"
+  }
+}
